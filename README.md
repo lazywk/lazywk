@@ -1,10 +1,10 @@
-### Hi there, I'm <a href="https://t.me/xiwang_00" target="_blank">Umidbek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://t.me/doniyoreshmamatov" target="_blank">Doniyorbek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### How to reach me: <a href="umidbek.khaitbaev@gmail.com">umidbek.khaitbaev@gmail.com</a>
+### How to reach me: <a href="edoniyorbekdev@gmail.com">edoniyorbekdedv@gmail.com</a>
 
-<a href="https://www.instagram.com/xiwang__00/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
-<a href="https://t.me/xiwang_00" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
-<a href="https://www.linkedin.com/in/umidbek-khaitbaev-5516ab226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
+<a href="https://www.instagram.com/doniyoreshmamatov1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+<a href="https://t.me/doniyoreshmamatov" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
+<a href="https://www.linkedin.com/in/doniyor-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
 
 
 ## 
@@ -27,8 +27,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-
 <br>
 <br>
 
@@ -39,9 +37,9 @@
 
 <div display="flex">
   <p>
-    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=xiwang-00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
-    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiwang-00&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=lazywk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
+    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazywk&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
 </div>
 
-![Snake animation](https://github.com/xiwang-00/xiwang-00/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
