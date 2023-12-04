@@ -48,7 +48,7 @@
 </div>
 
 <p align="center"> 
-  Visitor count<br>
+  Profile views<br>
   <img src="https://profile-counter.glitch.me/lazywk/count.svg" />
 </p>
 
