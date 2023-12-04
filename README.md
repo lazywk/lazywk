@@ -1,4 +1,8 @@
-### Hi there, I'm <a href="https://t.me/doniyoreshmamatov" target="_blank">Doniyorbek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <h1 align="center">
+  <a href="https://t.me/doniyoreshmamatov">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Doniyorbek👨‍💻&center=true&size=30">
+  </a>
+</h1>
 
 ### How to reach me: <a href="edoniyorbekdev@gmail.com">edoniyorbekdev@gmail.com</a>
 
