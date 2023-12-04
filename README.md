@@ -43,4 +43,9 @@
   </p>
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lazywk/count.svg" />
+</p>
+
 <!--<img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg"/>-->
