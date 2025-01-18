@@ -4,7 +4,8 @@
   </a>
 </h1>
 
-In Uzbekistan: (https://user-badge.committers.top/uzbekistan/lazywk.svg)](https://user-badge.committers.top/uzbekistan/lazywk)
+In Uzbekistan
+[![committers.top badge](https://user-badge.committers.top/uzbekistan_private/USERNAME.svg)](https://user-badge.committers.top/uzbekistan_private/USERNAME)
 
 ### How to reach me: <a href="edoniyorbekdev@gmail.com">edoniyorbekdev@gmail.com</a>
 
