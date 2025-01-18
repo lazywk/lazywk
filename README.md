@@ -4,14 +4,12 @@
   </a>
 </h1>
 
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/lazywk.svg)](https://user-badge.committers.top/uzbekistan/lazywk)
-
 ### How to reach me: <a href="edoniyorbekdev@gmail.com">edoniyorbekdev@gmail.com</a>
 
 <a href="https://www.instagram.com/doniyoreshmamatov1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
 <a href="https://t.me/doniyoreshmamatov" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 <a href="https://www.linkedin.com/in/doniyor-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
-
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/lazywk.svg)](https://user-badge.committers.top/uzbekistan/lazywk)
 
 ## 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/gif-11.gif" width="350" height="250"/>
