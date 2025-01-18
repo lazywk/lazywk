@@ -1,6 +1,4 @@
-
-
-rank top commiters (uzbekistan)
+rank in top commiters (uzbekistan)
 
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/lazywk.svg)](https://user-badge.committers.top/uzbekistan/lazywk)
 
