@@ -4,7 +4,9 @@
   </a>
 </h1>
 <br/>
+
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/lazywk.svg)](https://user-badge.committers.top/uzbekistan/lazywk)
+
 </br>
 
 ### How to reach me: <a href="edoniyorbekdev@gmail.com">edoniyorbekdev@gmail.com</a>
