@@ -6,7 +6,7 @@
 
 In Uzbekistan
 
-[![committers.top badge](https://user-badge.committers.top/uzbekistan_private/lazywk.svg)](https://user-badge.committers.top/uzbekistan_private/lazywk)
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/lazywk.svg)](https://user-badge.committers.top/uzbekistan/lazywk)
 
 ### How to reach me: <a href="edoniyorbekdev@gmail.com">edoniyorbekdev@gmail.com</a>
 
