@@ -26,9 +26,4 @@ rank in top commiters (uzbekistan)
   </p>
 </div>
 
-<p align="center"> 
-  Profile views<br>
-  <img src="https://profile-counter.glitch.me/lazywk/count.svg" />
-</p>
-
 
