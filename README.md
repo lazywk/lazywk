@@ -1,4 +1,4 @@
-### socials
+### links
 
 <a href="https://www.instagram.com/doniyoreshmamatov1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
 <a href="https://t.me/doniyoreshmamatov" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
